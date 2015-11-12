@@ -1,0 +1,85 @@
+.html {
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar-header {
+	background-color: #ffffff;
+}
+.navbar {
+	background-color: #eeecec;
+}
+
+
+.jumbotron {
+	background-image: url('../images/1024px-WashMonument_WhiteHousew.jpg');
+color: #inherit;
+margin-top: 30px;
+}
+
+.jumbotron a {
+color: inherit;
+}
+
+.jumbotron a:hover {
+color: inherit;
+}
+
+.jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 32px;
+  }
+.cover {
+   color: #ffffff;
+   background: rgba(0, 0, 0, 0.4);
+   margin-right: auto;
+   }
+
+.about {
+	font-size: 22px;
+	color: inherit;
+}
+
+.about a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+.wideimage {
+background-image: url('../images/riverweb.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+.wideimage-inside {
+	padding-top: 37.36%; /* this is actually (426/1140)*100 */
+}
+
+.jumbotron-videos {
+	background-image: url('../images/riverweb.jpg');
+color: #inherit;
+margin-top: 30px;
+}
+
+.cover-videos {
+	background-image: url('../images/riverweb.jpg');
+color: #inherit;
+margin-top: 30px;
+}
+.h3 {
+	text-align: center;
+}
+.h3 a:active{
+	text-decoration: none;}
+
+.subheading {
+	text-align: center;
+	margin-bottom: 30px;
+	color: #6f6f6f;
+	
+}
+
+.row {
+	margin-top: 30px;
+}
+
